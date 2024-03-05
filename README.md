@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Bekir Arslanalp</h1>
 <h3 align="center">A passionate Software Engineering student from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetbekir22" alt="ahmetbekir22" /></a> </p>
-
 - 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **ahmetbekirarslanalp@gmail.com**
