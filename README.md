@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a file comparison tool.<br>🌱 🌱 I’m currently learning SQL and Machine learning<br><br>
+🔭 I’m currently working on a file comparison tool.<br>🌱 🌱 I’m currently learning SQL<br><br>
 
 
 ## 🌐 Socials:
