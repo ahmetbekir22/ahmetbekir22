@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a file comparison tool.<br>🌱 🌱 I’m currently learning SQL<br><br>
-
+Hi, I am Ahmet from Turkey, a software engineering student.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmet-bekir-arslanalp-a659b7207) 
