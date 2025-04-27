@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hi! I’m Ahmet Bekir Arslanalp, a Software Engineering student from Türkiye. I have a strong interest in Artificial Intelligence and Computer Vision, constantly exploring innovative solutions and cutting-edge technologies in these fields.
+Hi! I’m Ahmet Bekir Arslanalp, a Software Engineering student at Muğla Sıtkı Koçman University, Türkiye.
+Passionate about building the future where Artificial Intelligence and Computer Vision seamlessly blend into everyday life.
+
+I dive deep into machine learning, deep learning, and computer vision, mastering tools like TensorFlow, PyTorch, OpenCV, and YOLO.
+On the mobile side, I craft sleek applications with Flutter, bringing smart city dreams and AI-driven solutions into reality.
+My journey isn't just about writing code — it's about creating technology that breathes, thinks, and evolves.
+
+I'm a firm believer in innovation with purpose, and I'm always chasing the next big idea with a hands-on, privacy-first approach.
+Curious mind, relentless builder, future dreamer. 🚀
 
 
 ## 🌐 Socials:
